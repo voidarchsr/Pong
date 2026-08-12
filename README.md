@@ -4,5 +4,6 @@
 - Keys Player B is controlling: Up and Down
 ## Features
 - Score system.
+- Imported turtle.
 ### Future Plans:
 - I am planning on adding audios to this project in the future.
